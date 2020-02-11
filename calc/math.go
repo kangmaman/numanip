@@ -2,6 +2,7 @@ package calc
 
 //return sum two integers
 
-func Add(int i, int j) int {
+//Add(i int, j int) : untuk menjumlahkan dua integer
+func Add(i int, j int) int {
 	return i + j
 }
