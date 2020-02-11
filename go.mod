@@ -1,1 +1,1 @@
-module "https://github.com/kangmaman/numanip.git"
+module github.com/kangmaman/numanip
